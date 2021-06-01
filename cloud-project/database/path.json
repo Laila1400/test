@@ -1,0 +1,14 @@
+{"input_details" : {
+  "name": "input_1", 
+  "index": 0, 
+  "shape": [ 32, 224, 224,   3],
+  "shape_signature": [ -1, 224, 224,   3], 
+  "dtype": "<class 'numpy.uint8'>"
+},
+  "output_details": {
+  "name": "Identity", 
+  "index": 185, 
+  "shape": [ 32, 360], 
+  "shape_signature": [ -1, 360], 
+  "dtype": "<class 'numpy.uint8'>" }
+}
